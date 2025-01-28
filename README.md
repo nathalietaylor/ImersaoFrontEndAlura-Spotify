@@ -1,1 +1,1 @@
-# Imers-o-Front-Alura---Spotify
+# Imersão Front-End Alura - Spotify
